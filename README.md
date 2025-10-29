@@ -1,16 +1,21 @@
-# test_flutter
+# Praktikum 3 - SQLite Flutter
+Dibuat untuk memenuhi tugas Praktikum Pemrograman Mobile
 
-A new Flutter project.
+# Identitas
+- Nama: Muhammad Zein Abdullah  
+- NIM: 2200016128  
+- Kelas: A  
+- Dosen Pengampu: Arif Rahman, S.Kom., M.Kom.
 
-## Getting Started
+# Deskripsi
+Aplikasi Flutter sederhana yang menggunakan SQLite (`sqflite`) untuk menyimpan data catatan secara lokal dengan fitur CRUD (Create, Read, Update, Delete).
 
-This project is a starting point for a Flutter application.
+# Fitur
+- Tambah catatan  
+- Lihat daftar catatan  
+- Edit catatan  
+- Hapus catatan  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cara Menjalankan
+flutter pub get
+flutter run
