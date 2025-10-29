@@ -4,7 +4,6 @@ Dibuat untuk memenuhi tugas Praktikum Pemrograman Mobile
 # Identitas
 - Nama: Muhammad Zein Abdullah  
 - NIM: 2200016128  
-- Kelas: A  
 - Dosen Pengampu: Arif Rahman, S.Kom., M.Kom.
 
 # Deskripsi
@@ -17,5 +16,5 @@ Aplikasi Flutter sederhana yang menggunakan SQLite (`sqflite`) untuk menyimpan d
 - Hapus catatan  
 
 # Cara Menjalankan
-flutter pub get
-flutter run
+- flutter pub get
+- flutter run
